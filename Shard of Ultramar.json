@@ -1,0 +1,46 @@
+{
+  "name": "Shard of Ultramar",
+  "supply_limit": 1000,
+  "supply_used": 160,
+  "battle_tally": 0,
+  "victories": 0,
+  "resources": {
+    "requisition_points": 5
+  },
+  "units": [
+    {
+      "name": "FS1-A",
+      "point_cost": 80,
+      "crusade_points": 0,
+      "experience_points": 0,
+      "unit_type": "Infernus marine",
+      "model_count": 5,
+      "equipment": "5x Default Wargear",
+      "enhancements_upgrades": "",
+      "battle_honours": "",
+      "battle_scars": "",
+      "combat_tallies": {
+        "battles_played": 0,
+        "battles_survived": 0,
+        "enemy_units_destroyed": 0
+      }
+    },
+    {
+      "name": "FS1-B",
+      "point_cost": 80,
+      "crusade_points": 0,
+      "experience_points": 0,
+      "unit_type": "Infernus marine",
+      "model_count": 5,
+      "equipment": "5x Default Wargear",
+      "enhancements_upgrades": "",
+      "battle_honours": "",
+      "battle_scars": "",
+      "combat_tallies": {
+        "battles_played": 0,
+        "battles_survived": 0,
+        "enemy_units_destroyed": 0
+      }
+    }
+  ]
+}

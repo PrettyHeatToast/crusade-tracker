@@ -1,0 +1,11 @@
+{
+    "name": "New Crusade Force",
+    "supply_limit": 1000,
+    "supply_used": 0,
+    "battle_tally": 0,
+    "victories": 0,
+    "resources": {
+        "requisition_points": 5
+    },
+    "units": []
+}   

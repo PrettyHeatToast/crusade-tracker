@@ -1,0 +1,13 @@
+{
+    "name": "Default",
+    "competing_forces": [
+        [
+            "CrusadeForceFileName1.json",
+            "Faction1"
+        ],
+        [
+            "CrusadeForceFileName2.json",
+            "Faction2"
+        ]
+    ]
+}
